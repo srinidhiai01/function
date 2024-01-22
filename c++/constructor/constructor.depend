@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705900202 source:c:\users\srinidhiai01\desktop\aibatch\project\c++\constructor\main.cpp
+	<iostream>
+	<conio.h>
+
