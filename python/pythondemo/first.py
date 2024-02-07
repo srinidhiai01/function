@@ -59,6 +59,23 @@ print("greterthan equal to number is:",u>=v);
 t=76;
 s=84;
 print("lesserthan equal to number is:",t<=s);
+print("Logical Operators");
+print("******* *********");
+print(" And  operator value is:", x<3 and x<6);
+print("Or operator value is: ",x<5 or x<2);
+print("not operator value is :",not(x<4 and x<8));
+print("Identity Operators");
+print("********* ********");
+x=["parrot","hen"];
+y=["parrot","hen"];
+z=x;
+print("IS value is:",x is z);
+print("Is value is:",x is y);
+print("Is value is:",x==y);
+print("Is not value is:",x is not z);
+print("Is not value is :",x is not y);
+print("Is not value is :",x != y);
+
 
 
 
