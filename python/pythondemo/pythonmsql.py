@@ -13,3 +13,4 @@ result.execute("show tables")
 result_show=result.fetchall()
 for x in result_show:
     print(x)
+    
